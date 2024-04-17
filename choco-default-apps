@@ -6,6 +6,4 @@ choco install 7zip.install  -y
 choco install discord.install  -y
 choco install powertoys -y
 choco install googlechrome -y
-choco install advanced-ip-scanner -y
 choco install openvpn -y
-choco install atom -y
