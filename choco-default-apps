@@ -1,9 +1,11 @@
-choco install vscode -y
+
 choco install chocolatey-core.extension -y
 choco install chocolatey-windowsupdate.extension -y
 choco install notepadplusplus.install -y
 choco install 7zip.install  -y
 choco install discord.install  -y
 choco install powertoys -y
-choco install googlechrome -y
+choco install vscodium.install -y
+choco install vlc -y
+choco install chromium -y
 choco install openvpn -y
