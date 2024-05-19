@@ -9,3 +9,13 @@ choco install vscodium.install -y
 choco install vlc -y
 choco install chromium -y
 choco install openvpn -y
+choco install winscp -y
+choco install keepass -y
+choco install docker-desktop -y
+choco install nvidia-display-driver -y
+choco install telegram.install -y
+choco install turnedontimesview -y
+choco install steam -y
+choco install mobaxterm -y
+choco install screenpresso -y
+choco install bleachbit -y
