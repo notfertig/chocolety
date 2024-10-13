@@ -2,20 +2,19 @@
 choco install chocolatey-core.extension -y
 choco install chocolatey-windowsupdate.extension -y
 choco install notepadplusplus.install -y
-choco install 7zip.install  -y
-choco install discord.install  -y
-choco install powertoys -y
-choco install vscodium.install -y
 choco install vlc -y
-choco install chromium -y
-choco install openvpn -y
 choco install winscp -y
-choco install keepass -y
 choco install docker-desktop -y
-choco install nvidia-display-driver -y
-choco install telegram.install -y
 choco install turnedontimesview -y
-choco install steam -y
-choco install mobaxterm -y
 choco install screenpresso -y
 choco install bleachbit -y
+choco install flow-launcher --version 1.19.2 -y
+choco install mremoteng --version 1.76.20.24615 -y
+choco install espanso --version 2.2.1 -y
+choco install everything --version 1.4.11026 -y
+choco install nanazip --version 3.1.1080 -y
+choco install putty.install --version 0.81.0 -y
+choco install bulk-crap-uninstaller --version 5.8.1 -y
+choco install playnite --version 10.34.0 -y
+choco install heroic-games-launcher.install --version 2.15.2 -y
+choco install sdio --version 1.13.4.771 -y
